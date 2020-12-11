@@ -1,4 +1,5 @@
 # pickadate [![Build status: master](https://travis-ci.org/amsul/pickadate.js.svg?branch=master)](https://travis-ci.org/amsul/pickadate.js) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/pickadate/badge?style=rounded)](https://www.jsdelivr.com/package/npm/pickadate)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjagonalez%2Fpickadate.js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjagonalez%2Fpickadate.js?ref=badge_shield)
 
 The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 
@@ -146,3 +147,7 @@ If you find this library useful and would like to see further development, consi
 © 2014 [Amsul](http://twitter.com/amsul_)
 
 Licensed under [MIT](http://amsul.ca/MIT)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjagonalez%2Fpickadate.js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjagonalez%2Fpickadate.js?ref=badge_large)
